@@ -1,0 +1,5 @@
+F:\Programming\Set1_Conditional\Q24_BMI\bin\Debug\Q24_BMI.exe.config
+F:\Programming\Set1_Conditional\Q24_BMI\bin\Debug\Q24_BMI.exe
+F:\Programming\Set1_Conditional\Q24_BMI\bin\Debug\Q24_BMI.pdb
+F:\Programming\Set1_Conditional\Q24_BMI\obj\Debug\Q24_BMI.exe
+F:\Programming\Set1_Conditional\Q24_BMI\obj\Debug\Q24_BMI.pdb

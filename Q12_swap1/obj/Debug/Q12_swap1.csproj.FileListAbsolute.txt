@@ -1,0 +1,5 @@
+F:\Programming\Set1_Conditional\Q12_swap1\bin\Debug\Q12_swap1.exe.config
+F:\Programming\Set1_Conditional\Q12_swap1\bin\Debug\Q12_swap1.exe
+F:\Programming\Set1_Conditional\Q12_swap1\bin\Debug\Q12_swap1.pdb
+F:\Programming\Set1_Conditional\Q12_swap1\obj\Debug\Q12_swap1.exe
+F:\Programming\Set1_Conditional\Q12_swap1\obj\Debug\Q12_swap1.pdb

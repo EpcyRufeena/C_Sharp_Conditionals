@@ -1,0 +1,5 @@
+F:\Programming\Set1_Conditional\Q15_feet\bin\Debug\Q15_feet.exe.config
+F:\Programming\Set1_Conditional\Q15_feet\bin\Debug\Q15_feet.exe
+F:\Programming\Set1_Conditional\Q15_feet\bin\Debug\Q15_feet.pdb
+F:\Programming\Set1_Conditional\Q15_feet\obj\Debug\Q15_feet.exe
+F:\Programming\Set1_Conditional\Q15_feet\obj\Debug\Q15_feet.pdb

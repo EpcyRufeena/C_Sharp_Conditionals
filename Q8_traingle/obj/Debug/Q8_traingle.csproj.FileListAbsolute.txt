@@ -1,0 +1,5 @@
+F:\Programming\Set1_Conditional\Q8_traingle\bin\Debug\Q8_traingle.exe.config
+F:\Programming\Set1_Conditional\Q8_traingle\bin\Debug\Q8_traingle.exe
+F:\Programming\Set1_Conditional\Q8_traingle\bin\Debug\Q8_traingle.pdb
+F:\Programming\Set1_Conditional\Q8_traingle\obj\Debug\Q8_traingle.exe
+F:\Programming\Set1_Conditional\Q8_traingle\obj\Debug\Q8_traingle.pdb

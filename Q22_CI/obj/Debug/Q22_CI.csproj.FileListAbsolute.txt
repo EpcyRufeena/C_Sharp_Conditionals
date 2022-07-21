@@ -1,0 +1,5 @@
+F:\Programming\Set1_Conditional\Q22_CI\bin\Debug\Q22_CI.exe.config
+F:\Programming\Set1_Conditional\Q22_CI\bin\Debug\Q22_CI.exe
+F:\Programming\Set1_Conditional\Q22_CI\bin\Debug\Q22_CI.pdb
+F:\Programming\Set1_Conditional\Q22_CI\obj\Debug\Q22_CI.exe
+F:\Programming\Set1_Conditional\Q22_CI\obj\Debug\Q22_CI.pdb

@@ -1,0 +1,5 @@
+F:\Programming\Set1_Conditional\Q16_n_num\bin\Debug\Q16_n_num.exe.config
+F:\Programming\Set1_Conditional\Q16_n_num\bin\Debug\Q16_n_num.exe
+F:\Programming\Set1_Conditional\Q16_n_num\bin\Debug\Q16_n_num.pdb
+F:\Programming\Set1_Conditional\Q16_n_num\obj\Debug\Q16_n_num.exe
+F:\Programming\Set1_Conditional\Q16_n_num\obj\Debug\Q16_n_num.pdb

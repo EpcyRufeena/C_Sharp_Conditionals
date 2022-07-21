@@ -1,0 +1,5 @@
+F:\Programming\Set1_Conditional\Q10_cel_fh\bin\Debug\Q10_cel_fh.exe.config
+F:\Programming\Set1_Conditional\Q10_cel_fh\bin\Debug\Q10_cel_fh.exe
+F:\Programming\Set1_Conditional\Q10_cel_fh\bin\Debug\Q10_cel_fh.pdb
+F:\Programming\Set1_Conditional\Q10_cel_fh\obj\Debug\Q10_cel_fh.exe
+F:\Programming\Set1_Conditional\Q10_cel_fh\obj\Debug\Q10_cel_fh.pdb

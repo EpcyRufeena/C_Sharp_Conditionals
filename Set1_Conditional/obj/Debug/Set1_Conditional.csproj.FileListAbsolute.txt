@@ -1,0 +1,6 @@
+F:\Programming\Set1_Conditional\Set1_Conditional\bin\Debug\Set1_Conditional.exe.config
+F:\Programming\Set1_Conditional\Set1_Conditional\bin\Debug\Set1_Conditional.exe
+F:\Programming\Set1_Conditional\Set1_Conditional\bin\Debug\Set1_Conditional.pdb
+F:\Programming\Set1_Conditional\Set1_Conditional\obj\Debug\Set1_Conditional.csprojResolveAssemblyReference.cache
+F:\Programming\Set1_Conditional\Set1_Conditional\obj\Debug\Set1_Conditional.exe
+F:\Programming\Set1_Conditional\Set1_Conditional\obj\Debug\Set1_Conditional.pdb

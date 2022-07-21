@@ -1,0 +1,5 @@
+F:\Programming\Set1_Conditional\Q19-gpay\bin\Debug\Q19-gpay.exe.config
+F:\Programming\Set1_Conditional\Q19-gpay\bin\Debug\Q19-gpay.exe
+F:\Programming\Set1_Conditional\Q19-gpay\bin\Debug\Q19-gpay.pdb
+F:\Programming\Set1_Conditional\Q19-gpay\obj\Debug\Q19-gpay.exe
+F:\Programming\Set1_Conditional\Q19-gpay\obj\Debug\Q19-gpay.pdb

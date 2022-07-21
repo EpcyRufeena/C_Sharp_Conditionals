@@ -1,0 +1,6 @@
+F:\Programming\Set1_Conditional\Q4_Perimeter\bin\Debug\Q4_Perimeter.exe.config
+F:\Programming\Set1_Conditional\Q4_Perimeter\bin\Debug\Q4_Perimeter.exe
+F:\Programming\Set1_Conditional\Q4_Perimeter\bin\Debug\Q4_Perimeter.pdb
+F:\Programming\Set1_Conditional\Q4_Perimeter\obj\Debug\Q4_Perimeter.csprojResolveAssemblyReference.cache
+F:\Programming\Set1_Conditional\Q4_Perimeter\obj\Debug\Q4_Perimeter.exe
+F:\Programming\Set1_Conditional\Q4_Perimeter\obj\Debug\Q4_Perimeter.pdb

@@ -1,0 +1,5 @@
+F:\Programming\Set1_Conditional\Q5_Quot_Remain\bin\Debug\Q5_Quot_Remain.exe.config
+F:\Programming\Set1_Conditional\Q5_Quot_Remain\bin\Debug\Q5_Quot_Remain.exe
+F:\Programming\Set1_Conditional\Q5_Quot_Remain\bin\Debug\Q5_Quot_Remain.pdb
+F:\Programming\Set1_Conditional\Q5_Quot_Remain\obj\Debug\Q5_Quot_Remain.exe
+F:\Programming\Set1_Conditional\Q5_Quot_Remain\obj\Debug\Q5_Quot_Remain.pdb

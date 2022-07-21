@@ -1,0 +1,5 @@
+F:\Programming\Set1_Conditional\Q17_avg\bin\Debug\Q17_avg.exe.config
+F:\Programming\Set1_Conditional\Q17_avg\bin\Debug\Q17_avg.exe
+F:\Programming\Set1_Conditional\Q17_avg\bin\Debug\Q17_avg.pdb
+F:\Programming\Set1_Conditional\Q17_avg\obj\Debug\Q17_avg.exe
+F:\Programming\Set1_Conditional\Q17_avg\obj\Debug\Q17_avg.pdb

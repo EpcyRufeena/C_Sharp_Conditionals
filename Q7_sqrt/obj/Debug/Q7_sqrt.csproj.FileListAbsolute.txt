@@ -1,0 +1,5 @@
+F:\Programming\Set1_Conditional\Q7_sqrt\bin\Debug\Q7_sqrt.exe.config
+F:\Programming\Set1_Conditional\Q7_sqrt\bin\Debug\Q7_sqrt.exe
+F:\Programming\Set1_Conditional\Q7_sqrt\bin\Debug\Q7_sqrt.pdb
+F:\Programming\Set1_Conditional\Q7_sqrt\obj\Debug\Q7_sqrt.exe
+F:\Programming\Set1_Conditional\Q7_sqrt\obj\Debug\Q7_sqrt.pdb

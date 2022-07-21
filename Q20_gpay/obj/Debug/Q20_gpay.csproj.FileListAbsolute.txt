@@ -1,0 +1,6 @@
+F:\Programming\Set1_Conditional\Q20_gpay\bin\Debug\Q20_gpay.exe.config
+F:\Programming\Set1_Conditional\Q20_gpay\bin\Debug\Q20_gpay.exe
+F:\Programming\Set1_Conditional\Q20_gpay\bin\Debug\Q20_gpay.pdb
+F:\Programming\Set1_Conditional\Q20_gpay\obj\Debug\Q20_gpay.exe
+F:\Programming\Set1_Conditional\Q20_gpay\obj\Debug\Q20_gpay.pdb
+F:\Programming\Set1_Conditional\Q20_gpay\obj\Debug\Q20_gpay.csprojResolveAssemblyReference.cache

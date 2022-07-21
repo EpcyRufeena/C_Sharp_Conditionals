@@ -1,0 +1,6 @@
+F:\Programming\Set1_Conditional\Q25_T_avg\bin\Debug\Q25_T_avg.exe.config
+F:\Programming\Set1_Conditional\Q25_T_avg\bin\Debug\Q25_T_avg.exe
+F:\Programming\Set1_Conditional\Q25_T_avg\bin\Debug\Q25_T_avg.pdb
+F:\Programming\Set1_Conditional\Q25_T_avg\obj\Debug\Q25_T_avg.csprojResolveAssemblyReference.cache
+F:\Programming\Set1_Conditional\Q25_T_avg\obj\Debug\Q25_T_avg.exe
+F:\Programming\Set1_Conditional\Q25_T_avg\obj\Debug\Q25_T_avg.pdb

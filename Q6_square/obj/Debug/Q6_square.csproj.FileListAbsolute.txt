@@ -1,0 +1,5 @@
+F:\Programming\Set1_Conditional\Q6_square\bin\Debug\Q6_square.exe.config
+F:\Programming\Set1_Conditional\Q6_square\bin\Debug\Q6_square.exe
+F:\Programming\Set1_Conditional\Q6_square\bin\Debug\Q6_square.pdb
+F:\Programming\Set1_Conditional\Q6_square\obj\Debug\Q6_square.exe
+F:\Programming\Set1_Conditional\Q6_square\obj\Debug\Q6_square.pdb

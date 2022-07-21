@@ -1,0 +1,6 @@
+F:\Programming\Set1_Conditional\Q21_SI\bin\Debug\Q21_SI.exe.config
+F:\Programming\Set1_Conditional\Q21_SI\bin\Debug\Q21_SI.exe
+F:\Programming\Set1_Conditional\Q21_SI\bin\Debug\Q21_SI.pdb
+F:\Programming\Set1_Conditional\Q21_SI\obj\Debug\Q21_SI.csprojResolveAssemblyReference.cache
+F:\Programming\Set1_Conditional\Q21_SI\obj\Debug\Q21_SI.exe
+F:\Programming\Set1_Conditional\Q21_SI\obj\Debug\Q21_SI.pdb

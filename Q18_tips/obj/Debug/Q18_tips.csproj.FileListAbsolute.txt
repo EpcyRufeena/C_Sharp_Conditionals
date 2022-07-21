@@ -1,0 +1,5 @@
+F:\Programming\Set1_Conditional\Q18_tips\bin\Debug\Q18_tips.exe.config
+F:\Programming\Set1_Conditional\Q18_tips\bin\Debug\Q18_tips.exe
+F:\Programming\Set1_Conditional\Q18_tips\bin\Debug\Q18_tips.pdb
+F:\Programming\Set1_Conditional\Q18_tips\obj\Debug\Q18_tips.exe
+F:\Programming\Set1_Conditional\Q18_tips\obj\Debug\Q18_tips.pdb
